@@ -6,21 +6,21 @@
   "dependencies": {
     "busyman": "^0.3.0",
     "coap": "^0.23.1",
-    "debug": "^2.2.0",
-    "firmata": "^0.10.1",
+    "debug": "^4.1.1",
+    "firmata": "^2.0.0",
     "lwm2m-codec": "0.1.1",
-    "lwm2m-id": "^1.6.1",
+    "lwm2m-id": "^1.6.4",
     "nedb": "^1.8.0",
-    "network": "^0.2.1",
+    "network": "^0.4.1",
     "proving": "^0.1.0",
-    "q": "^1.4.1",
-    "smartobject": "^1.4.0"
+    "q": "^1.5.1",
+    "smartobject": "^1.5.0"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3",
-    "sinon": "^1.17.5",
-    "sinon-chai": "^2.8.0"
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "sinon": "^7.3.2",
+    "sinon-chai": "^3.3.0"
   },
   "scripts": {
     "test": "make test-all"
